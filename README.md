@@ -134,7 +134,22 @@ business-sales-analysis
 │
 ├── notebooks
 │   └── business_sales_analysis.ipynb
+│   └── customer_segmentation_rfm.ipynb
 │
 ├── requirements.txt
 └── README.md
 ```
+
+## Additional Analysis: Customer Segmentation (RFM)
+
+As an extension of the sales analysis, I performed RFM (Recency, Frequency, Monetary) customer segmentation to identify distinct customer groups based on purchasing behavior.
+
+This analysis helped classify customers into segments such as:
+- Champions
+- Loyal Customers
+- Potential Loyalists
+- At Risk
+- Lost Customers
+
+### Customer Segmentation Visualization
+![Customer Segmentation](images/customer_segments.png)
